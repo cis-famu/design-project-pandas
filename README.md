@@ -1,1 +1,27 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xLFwbfXt)
+
+# EmpowerNet - WIN Belize Project
+
+**Table of Contents**
+1. [About the project](#about-the-project)
+2. [Contributors](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/Contributors.md)
+3. [Our Organization](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/organization.md)
+4. [Milestones](#milestones)
+    - [Milestone 1](#milestone-1)
+    - [Milestone 2](#milestone-2)
+    - [Milestone 3](#milestone-3)
+    - [Milestone 4](#milestone-4)
+5. [Presentation](#presentation)
+
+# About the Project
+
+
+
+# Milestones
+
+
+## Milestone 1
+
+
+
+
