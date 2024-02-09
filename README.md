@@ -8,10 +8,7 @@
 3. [Our Organization](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/organization.md)
 4. [Milestones](#milestones)
     - [Milestone 1](#milestone-1)
-    - [Milestone 2](#milestone-2)
-    - [Milestone 3](#milestone-3)
-    - [Milestone 4](#milestone-4)
-5. [Presentation](#presentation)
+
 
 # About the Project
 
