@@ -23,7 +23,46 @@
 |                  | Amanda Brown | Development | **Fill In** | **Fill In** |
 |                  | Ajani Roberts | Development | **Fill In** | **Fill In** |
 ### Stakeholders
+Stakeholders Name
 ### Project Scope Statement
+| Project Purpose / Business Justification |
+| :---: |
+| |
+
+| Objectives |
+| :---: |
+| |
+
+| Deliverables List |
+| :---: |
+| |
+
+| Scope List | 
+| :---: | 
+
+The project will focus on
+
+The project will not cover broader aspects outside the defined scope, including:
+
+| Project Milestones |
+| :---: |
+| |
+
+| Major Known Risks |
+| :---: |
+
+| Risk | Rating |
+| :---:| :---:  |
+
+| Constraint List |
+| :---: |
+| |
+
+| External Dependencies |
+| :---: |
+| |
+
+
 ### Communication Strategy 
 ### Sign-off 
 |        |Name | Signature | Date | 
@@ -32,6 +71,18 @@
 |Department Sponsor| Vanessa Coote | |
 |Project Manager| Nicholas Buggs| | |
 
+## SWOT ANALYSIS 
+### STRENGTH
+### WEAKNESS
+### OPPORTUNITY
+### THREATS
+
+## Budget, Scope, & Time Estimate
+### Scope & Time Estimate
+### Budget Estimate
 
 ## Team Contract
 [Download Contract](files/teamContract.pdf)
+
+## References
+List any references here
