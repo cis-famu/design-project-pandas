@@ -35,7 +35,7 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 
 | Deliverables List |
 | :---: |
-|  |
+| 1. Functional Prototype  2. Finalized Procedural Plan for Drone Operations  3. Documentation Ensuring Regulatory Compliance  4. Pilot Report  5. Scalability Roadmap |
 
 | Scope List | 
 | :---: | 
