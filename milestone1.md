@@ -23,7 +23,7 @@
 |                  | Amanda Brown | Development | **Fill In** | **Fill In** |
 |                  | Ajani Roberts | Development | (925) 437 - 0737 | ajani.i.roberts@gmail.com |
 ### Stakeholders
-Stakeholders Name
+Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organizations, Insurance Agencies, Regulatory Agencies, and First Responders
 ### Project Scope Statement
 | Project Purpose / Business Justification |
 | :---: |
