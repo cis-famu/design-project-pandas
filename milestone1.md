@@ -46,8 +46,7 @@ The project will not cover broader aspects outside the defined scope, including:
 
 | Project Milestones |
 | :---: |
-| 1. YEET
-2. rrr |
+| 1. YEET\n2. rrr |
 
 | Major Known Risks |
 | :---: |
