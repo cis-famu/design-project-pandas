@@ -31,11 +31,11 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 
 | Objectives |
 | :---: |
-| 1. Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport. 2. Establish and enforce protocols for system operation, including scheduling, optimal routing, tracking, and contingencies. 3. Ensure regulatory guidelines are followed before, during, and after project completion. 4. Execute a successful pilot project in an authorized city sector. 5. Scale pilot project for large scale implementation as a finished product. |
+| 1) Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport. 2) Establish and enforce protocols for system operation, including scheduling, optimal routing, tracking, and contingencies. 3) Ensure regulatory guidelines are followed before, during, and after project completion. 4) Execute a successful pilot project in an authorized city sector. 5) Scale pilot project for large scale implementation as a finished product. |
 
 | Deliverables List |
 | :---: |
-| 1. Functional Prototype  2. Finalized Procedural Plan for Drone Operations  3. Documentation Ensuring Regulatory Compliance  4. Pilot Report  5. Scalability Roadmap |
+| 1) Functional Prototype  2) Finalized Procedural Plan for Drone Operations  3) Documentation Ensuring Regulatory Compliance  4) Pilot Report  5) Scalability Roadmap |
 
 | Scope List | 
 | :---: | 
