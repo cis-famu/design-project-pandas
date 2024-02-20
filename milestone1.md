@@ -31,8 +31,7 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 
 | Objectives |
 | :---: |
-| 1. Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport.
-  2. AAHHHHHHHHHHHH |
+| 1. Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport. 2. Give me free money |
 
 | Deliverables List |
 | :---: |
