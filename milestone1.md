@@ -20,7 +20,7 @@
 |**Project Manager:** | Nicholas Buggs | Exec. Management |**Fill In**| **Fill In** |
 |**Team Members:** |          |             |           |            |
 |                  | Alaisha Johnson | Development | (863) 604 - 9057| alaisha.johnson02@gmail.com |
-|                  | Amanda Brown | Development | **Fill In** | **Fill In** |
+|                  | Amanda Brown | Development | (470) 244 - 8437 | schoolemail4635@gmail.com |
 |                  | Ajani Roberts | Development | (925) 437 - 0737 | ajani.i.roberts@gmail.com |
 ### Stakeholders
 Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organizations, Insurance Agencies, Regulatory Agencies, and First Responders
