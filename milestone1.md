@@ -40,13 +40,14 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 | Scope List | 
 | :---: | 
 
-The project will focus on
+The project will focus on the testing, development, and implementation of the AeroMedic drone delivery system, instituting protocols, and regulatory compliance. 
 
-The project will not cover broader aspects outside the defined scope, including:
+The project will not cover broader aspects outside the defined scope, including: drone component manufacturing (Work will be outsourced), and anything involving the altering of existing healthcare infrastructure.
 
 | Project Milestones |
 | :---: |
-| |
+| 1. YEET
+2. rrr |
 
 | Major Known Risks |
 | :---: |
