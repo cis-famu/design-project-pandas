@@ -13,7 +13,7 @@
 | :---:        |     :---:      |
 | Executive Sponsor   | **Fill In**    |
 | Department Sponsor  |  Vanessa Coote |
-| Impact of Project: | **Fill In** |
+| Impact of Project: | Delivery efficiency, cost reduction, enhancing healthcare, and improving medical accesibility. |
 ### Project Team Information
 |        |Name | Department | Telephone | Email |
 |:---:   |:---:| :---:      | :---:     | :---: |
