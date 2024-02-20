@@ -27,7 +27,7 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 ### Project Scope Statement
 | Project Purpose / Business Justification |
 | :---: |
-| |
+| aaaaaaaaaaaaaa |
 
 | Objectives |
 | :---: |
