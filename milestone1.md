@@ -27,7 +27,7 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 ### Project Scope Statement
 | Project Purpose / Business Justification |
 | :---: |
-| aaaaaaaaaaaaaa |
+| The purpose of the AeroMedic project is to help in remedying issues that may arise on the logistical side of medical supply delivery through the usage of drone technology. Not only do we hope to achieve functionality in populated urban areas, but in remote or hard to access areas as well. Through this system, access to medical supplies and patient experiences with healthcare will see great improvement. |
 
 | Objectives |
 | :---: |
