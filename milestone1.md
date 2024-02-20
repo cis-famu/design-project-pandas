@@ -31,7 +31,7 @@ Patients, Healthcare Providers, Tech Partners, Investors, Environmental Organiza
 
 | Objectives |
 | :---: |
-| 1. Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport. 2. Give me free money |
+| 1. Develop and implement a drone delivery system capable of both wide range delivery and reliable product transport. 2. Establish and enforce protocols for system operation, including scheduling, optimal routing, tracking, and contingencies. 3. Ensure regulatory guidelines are followed before, during, and after project completion. Eggs |
 
 | Deliverables List |
 | :---: |
