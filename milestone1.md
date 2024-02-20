@@ -9,10 +9,10 @@
 
 ## Project Charter 
 ### General Project Information
-| Project Name: |  **Fill In** |
+| Project Name: |  AeroMedic: Medical Supply Delivery |
 | :---:        |     :---:      |
 | Executive Sponsor   | **Fill In**    |
-| Department Sponsor  |  **Fill In** |
+| Department Sponsor  |  Vanessa Coote |
 | Impact of Project: | **Fill In** |
 ### Project Team Information
 |        |Name | Department | Telephone | Email |
