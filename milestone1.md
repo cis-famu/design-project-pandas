@@ -54,15 +54,15 @@ The project will not cover broader aspects outside the defined scope, including:
 
 | Risk | Rating |
 | :---:| :---:  |
-1) 
+1) Malfunctions 5/10  2) Theft 7/10  3) Weather 10/10  4) Compliance 3/10  5) PR 4/10
 
 | Constraint List |
 | :---: |
-| |
+| 1) Budget  2) Time  3) Technological Limitations 4) Regulatory Limitations |
 
 | External Dependencies |
 | :---: |
-| |
+| 1) Approval from City Officals  2) Drone Component Outsourcing  3) Weather Dependency  4) Public Acceptance/Integration |
 
 
 ### Communication Strategy 
