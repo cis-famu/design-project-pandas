@@ -85,7 +85,9 @@ Competition, public opinion, legislative adjustments
 
 ## Budget, Scope, & Time Estimate
 ### Scope & Time Estimate
+We hope to complete system development, prototype development, pilot testing, and system implementation within 12 - 20 months.
 ### Budget Estimate
+Our budget estimate is around $2,000,000.
 
 ## Team Contract
 [Download Contract](files/teamContract.pdf)
