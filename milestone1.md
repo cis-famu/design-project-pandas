@@ -21,7 +21,7 @@
 |**Team Members:** |          |             |           |            |
 |                  | Alaisha Johnson | Development | (863) 604 - 9057| alaisha.johnson02@gmail.com |
 |                  | Amanda Brown | Development | **Fill In** | **Fill In** |
-|                  | Ajani Roberts | Development | **Fill In** | **Fill In** |
+|                  | Ajani Roberts | Development | (925) 437 - 0737 | ajani.i.roberts@gmail.com |
 ### Stakeholders
 Stakeholders Name
 ### Project Scope Statement
