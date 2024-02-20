@@ -75,9 +75,13 @@ The project will not cover broader aspects outside the defined scope, including:
 
 ## SWOT ANALYSIS 
 ### STRENGTH
+Potential cost efficiency, accessibility, interesting to potential investors
 ### WEAKNESS
+Complex technology, weather dependency, risky to potential investors
 ### OPPORTUNITY
+New market capabilities, potential partnerships with healthcare institutions 
 ### THREATS
+Competition, public opinion, legislative adjustments
 
 ## Budget, Scope, & Time Estimate
 ### Scope & Time Estimate
