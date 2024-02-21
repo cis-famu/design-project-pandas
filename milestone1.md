@@ -46,7 +46,7 @@ The project will not cover broader aspects outside the defined scope, including:
 
 | Project Milestones |
 | :---: |
-| 1) MS#1 February 11th  2) MS#2 March 3rd  3)   4)  |
+| 1) MS#1 (2-11-24)  2) MS#2 (3-3-24)  3)   4)  |
 
 | Major Known Risks |
 | :---: |
