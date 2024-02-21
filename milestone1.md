@@ -54,7 +54,7 @@ The project will not cover broader aspects outside the defined scope, including:
 
 | Risk | Rating |
 | :---:| :---:  |
-1) Malfunctions 5/10  2) Theft 7/10  3) Weather 10/10  4) Compliance 3/10  5) PR 4/10
+1) Malfunctions - Med  2) Theft Hi  3) Weather Hi  4) Compliance Low  5) PR Low
 
 | Constraint List |
 | :---: |
