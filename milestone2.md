@@ -4,8 +4,9 @@
 1. [Work Breakdown Structure](#work-breakdown-structure)
 2. [Gantt Chart and Network Diagram](#gantt-chart-and-network-diagram)
 3. [Detailed Requirements Document](#detailed-requirements-document)
-4. [Team Contract](#team-contract)
-5. [References](#references)
+4. [Fully Dressed Use Cases](#fully-dressed-use-cases)
+5. [System Research](#system-research)
+6. [API Descriptions](#api-descriptions)
 
 ## Work Breakdown Structure 
 | **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
@@ -54,15 +55,60 @@
 
 ## Gantt Chart and Network Diagram
 
-
+d
+d
+d
+dd
+d
+d
+dd
+d
+d
+d
+d
 
 ## Detailed Requirements Document
 
+d
+d
+d
+d
+dd
+d
+d
+d
+d
+dd
 
 
-## Work Breakdown Structure
 
+## System Research
 
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+
+## API Descriptions
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
 
 
 ## Work Breakdown Structure
