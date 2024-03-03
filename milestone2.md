@@ -11,6 +11,14 @@
 | **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
 | :---:        |     :---:      |  :---:  |  :---:   |  :---:    |  :---:     |
 |**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ### Project Team Information
 |        |Name | Department | Telephone | Email |
