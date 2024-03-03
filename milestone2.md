@@ -8,9 +8,9 @@
 5. [References](#references)
 
 ## Work Breakdown Structure 
-| Task ID |  Task Name | Duration | Start Date | Finish Date | Predecessors |
+| **Task ID** |  **Task Name** | **Duration** | **Start Date** | **Finish Date** | **Predecessors** |
 | :---:        |     :---:      |  :---:  |  :---:   |  :---:    |  :---:     |
-
+|**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ### Project Team Information
 |        |Name | Department | Telephone | Email |
