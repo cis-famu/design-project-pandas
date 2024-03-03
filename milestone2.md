@@ -54,7 +54,8 @@
 |9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ## Gantt Chart and Network Diagram
-
+| **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
+| :---:|     :---:                                 |:---:|  :---:     |  :---:     |  :---:   |
 |3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
@@ -114,7 +115,8 @@
 
 
 ## System Research
-
+| **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
+| :---:|     :---:                                 |:---:|  :---:     |  :---:     |  :---:   |
 |3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
@@ -143,7 +145,8 @@
 |9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ## API Descriptions
-
+| **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
+| :---:|     :---:                                 |:---:|  :---:     |  :---:     |  :---:   |
 |3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
