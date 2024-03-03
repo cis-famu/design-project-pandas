@@ -1,13 +1,13 @@
 # Milestone 2
 
 **Table of Contents**
-1. [Meeting Minutes](#meeting-minutes)
+1. [Work Breakdown Structure](#work-breakdown-structure)
 2. [SWOT Analysis](#swot-analysis)
 3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
 4. [Team Contract](#team-contract)
 5. [References](#references)
 
-## Meeting Minutes 
+## Work Breakdown Structure 
 ### General Project Information
 | Project Name: |  AeroMedic: Medical Supply Delivery |
 | :---:        |     :---:      |
