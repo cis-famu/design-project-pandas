@@ -64,6 +64,8 @@ The project will not cover broader aspects outside the defined scope, including:
 | :---: |
 | 1) Approval from City Officals  2) Drone Component Outsourcing  3) Weather Dependency  4) Public Acceptance/Integration |
 
+## Project Charter
+https://github.com/cis-famu/design-project-pandas/blob/main/Project%20Charter.docx
 
 ### Communication Strategy 
 ### Sign-off 
