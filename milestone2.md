@@ -1,7 +1,7 @@
 # Milestone 2
 
 **Table of Contents**
-1. [Meeting Minutes](#project-charter)
+1. [Meeting Minutes](#meeting-minutes)
 2. [SWOT Analysis](#swot-analysis)
 3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
 4. [Team Contract](#team-contract)
