@@ -7,7 +7,7 @@
 4. [Team Contract](#team-contract)
 5. [References](#references)
 
-## Project Charter 
+## Meeting Minutes 
 ### General Project Information
 | Project Name: |  AeroMedic: Medical Supply Delivery |
 | :---:        |     :---:      |
