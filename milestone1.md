@@ -51,7 +51,10 @@ The project will not cover broader aspects outside the defined scope, including:
 | Major Known Risks |
 | :---: |
 1) Malfunctions during flight
-2) 2) Hardware/Supply Theft 3) Weather Conditions 4) Compliance Issues 5) Public Relations/Trust
+2) Hardware/Supply Theft
+3) Weather Conditions
+4) Compliance Issues
+5) Public Relations/Trust
 
 | Risk | Rating |
 | :---:| :---:  |
