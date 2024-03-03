@@ -10,29 +10,29 @@
 
 ## Work Breakdown Structure 
 | **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
-| :---:|     :---:                                 |:---:|  :---:     |  :---:     |  :---:   |
-|1     | Project Initiation                        | 12  | 02/11/2024 | 02/12/2024 | -        |
-|1.1   | Define Project Scope and Objectives       | 6   | 02/11/2024 | 02/11/2024 | 1        |
-|1.2   | Identify Project Stakeholders             | 6   | 02/12/2024 | 02/12/2024 | 1        |
-|2     | Requirements Gathering Phase              | 90  | 02/13/2024 | 02/28/2024 | 1.1, 1.2 |
-|2.1   | Define Data Collection Methodologies      | 30  | 02/13/2024 | 02/18/2024 | 2        |
-|2.1.1 | Conduct Interviews with Stakeholders      | 15  | 02/13/2024 | 02/15/2024 | 2.1      |
-|2.1.2 | Collect Survey Responses                  | 15  | 02/16/2024 | 02/18/2024 | 2.1      |
-|2.2   | Analyze Legal and Compliance Requirements | 24  | 02/19/2024 | 02/21/2024 | 2.1      |
-|2.2.1 | Review Privacy Regulations                | 12  | 02/19/2024 | 02/20/2024 | 2.2      |
-|2.2.2 | Review Security Standards                 | 12  | 02/20/2024 | 02/21/2024 | 2.2      |
-|2.3   | Requirements Analysis and Documentation   | 36  | 02/22/2024 | 02/26/2024 | 2.2      |
-|2.3.1 | Analyze Stakeholder Input                 | 12  | 02/22/2024 | 02/23/2024 | 2.3      |
-|2.3.2 | Analyze Interview Data                    | 12  | 02/24/2024 | 02/25/2024 | 2.3.1    |
-|2.3.3 | Analyze Survey Data                       | 12  | 02/26/2024 | 02/27/2024 | 2.3.1    |
-|3     | Design Phase                              | 140 | 03/01/2024 | 03/25/2024 | 2.3.3    |
-|3.1   | Drone System Design                       | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.1.1 | Aerodynamics and Payload Capacity         | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.1.2 | Navigation and Control Systems            | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.2   | User Interface Design                     | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.2.1 | Wireframing and Mockups                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.2.2 | Feedback and Revisions                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|3.3   | Database Design                           | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+| :---:|     :---:                                 |:---:|  :---:     |  :---:     |  :---:       |
+|1     | Project Initiation                        | 12  | 02/11/2024 | 02/12/2024 | -            |
+|1.1   | Define Project Scope and Objectives       | 6   | 02/11/2024 | 02/11/2024 | 1            |
+|1.2   | Identify Project Stakeholders             | 6   | 02/12/2024 | 02/12/2024 | 1            |
+|2     | Requirements Gathering Phase              | 90  | 02/13/2024 | 02/28/2024 | 1.1, 1.2     |
+|2.1   | Define Data Collection Methodologies      | 30  | 02/13/2024 | 02/18/2024 | 2            |
+|2.1.1 | Conduct Interviews with Stakeholders      | 15  | 02/13/2024 | 02/15/2024 | 2.1          |
+|2.1.2 | Collect Survey Responses                  | 15  | 02/16/2024 | 02/18/2024 | 2.1          |
+|2.2   | Analyze Legal and Compliance Requirements | 24  | 02/19/2024 | 02/21/2024 | 2.1          |
+|2.2.1 | Review Privacy Regulations                | 12  | 02/19/2024 | 02/20/2024 | 2.2          |
+|2.2.2 | Review Security Standards                 | 12  | 02/20/2024 | 02/21/2024 | 2.2          |
+|2.3   | Requirements Analysis and Documentation   | 36  | 02/22/2024 | 02/26/2024 | 2.2          |
+|2.3.1 | Analyze Stakeholder Input                 | 12  | 02/22/2024 | 02/23/2024 | 2.3          |
+|2.3.2 | Analyze Interview Data                    | 12  | 02/24/2024 | 02/25/2024 | 2.3.1        |
+|2.3.3 | Analyze Survey Data                       | 12  | 02/26/2024 | 02/27/2024 | 2.3.1        |
+|3     | Design Phase                              | 140 | 03/01/2024 | 03/28/2024 | 2.3.3        |
+|3.1   | Drone System Design                       | 90  | 03/01/2024 | 03/18/2024 | 3            |
+|3.1.1 | Aerodynamics and Payload Capacity         | 30  | 03/01/2024 | 03/06/2024 | 3.1          |
+|3.1.2 | Navigation and Control Systems            | 60  | 03/07/2024 | 03/18/2024 | 3.1          |
+|3.2   | User Interface Design                     | 20  | 03/19/2024 | 03/22/2024 | 3.1.1, 3.1.2 |
+|3.2.1 | Wireframing and Mockups                   | 8   | 03/19/2024 | 03/20/2024 | 3.2          |
+|3.2.2 | Feedback and Revisions                    | 12  | 03/21/2024 | 03/22/2024 | 3.2          |
+|3.3   | Database Design                           | 30  | 03/23/2024 | 03/28/2024 | 3.2.1, 3.2.2 |
 |4     | Development Phase                         | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |4.1   | Drone Prototype Development               | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |4.1.1 | Mechanical Design and Fabrication         | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
