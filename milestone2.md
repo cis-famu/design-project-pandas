@@ -10,9 +10,9 @@
 ## Work Breakdown Structure 
 | **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
 | :---:        |     :---:      |  :---:  |  :---:   |  :---:    |  :---:     |
-|1 | Project Initiation | 10 |02/11/2024| 02/12/2024 | - |
-|1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|1 | Project Initiation | 12 |02/11/2024| 02/12/2024 | - |
+|1.1 | Define Project Scope and Objectives | 6 |02/11/2024|02/11/2024 | 1 |
+|1.2 | Identify Project Stakeholders | 6 | 02/12/2024 | 02/12/2024 | 1 |
 |**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
