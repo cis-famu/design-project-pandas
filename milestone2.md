@@ -8,7 +8,6 @@
 5. [References](#references)
 
 ## Work Breakdown Structure 
-### General Project Information
 | Project Name: |  AeroMedic: Medical Supply Delivery |
 | :---:        |     :---:      |
 | Executive Sponsor   | Vanessa Coote |
