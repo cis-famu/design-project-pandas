@@ -8,7 +8,7 @@
 5. [References](#references)
 
 ## Work Breakdown Structure 
-| **Task ID** |  **Task Name** | **Duration** | **Start Date** | **Finish Date** | **Predecessors** |
+| **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
 | :---:        |     :---:      |  :---:  |  :---:   |  :---:    |  :---:     |
 |**Fill In** | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
