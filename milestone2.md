@@ -55,60 +55,121 @@
 
 ## Gantt Chart and Network Diagram
 
-d
-d
-d
-dd
-d
-d
-dd
-d
-d
-d
-d
+|3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|8     | Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9     | Project Closure and Reporting | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.1   | Finalize Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ## Detailed Requirements Document
 
-d
-d
-d
-d
-dd
-d
-d
-d
-d
-dd
+|3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|8     | Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9     | Project Closure and Reporting | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.1   | Finalize Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 
 
 ## System Research
 
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
+|3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|8     | Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9     | Project Closure and Reporting | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.1   | Finalize Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 ## API Descriptions
 
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
+|3.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|3.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.1.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.1 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.2.2 | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|4.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|5.3   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6     | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.1   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6.2   | **Fill In** | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|8     | Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9     | Project Closure and Reporting | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.1   | Finalize Documentation | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|9.2   | Generate Project Report | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 
 
 ## Work Breakdown Structure
