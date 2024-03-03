@@ -8,8 +8,8 @@
 5. [References](#references)
 
 ## Work Breakdown Structure 
-| Project Name: |  AeroMedic: Medical Supply Delivery |
-| :---:        |     :---:      |
+| Task ID |  Task Name | Duration | Start Date | Finish Date | Predecessors |
+| :---:        |     :---:      |    |     |      |       |
 | Executive Sponsor   | Vanessa Coote |
 | Department Sponsor  | Vanessa Coote |
 | Impact of Project: | Delivery efficiency, cost reduction, enhancing healthcare, and improving medical accessibility. |
