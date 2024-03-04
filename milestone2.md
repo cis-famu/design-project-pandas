@@ -63,8 +63,8 @@
 ## Detailed Requirements Document
 ### Functional Requirements:
 1. User Authentification:
-  * ddas
-  * dwadwa
+  * User's must be able to create an account, verify their identities, link said account to their healthcare provider, and log in securely.
+  * Access levels should vary between a basic user/patient, healthcare professionals, and drone dispatch operators.
 ### Non-Functional Requirements:
 
 
