@@ -147,15 +147,15 @@
 |   :---:  |   :---:    |   :---:    |
 | 1  |  Customer logs into the AeroMedic system   |  Customer   |
 | 2  |  Customer selects items for their order   |  Customer   |
-| 3  |  Inventory is checked to see if the selected items are available   |  System  |
-| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  System   |
+| 3  |  Inventory is checked to see if the selected items are available   |  AeroMedic System  |
+| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  AeroMedic System   |
 | 4  |  Customer proceeds to checkout   |  Customer   |
-| 4.1  |  Customer's payment information or delivery address registers as invalid   |  System   |
-| 5  |  Confirmation and tracking information are generated   |  System  |
-| 6  |  Drone is dispatched   |  System  |
+| 4.1  |  Customer's payment information or delivery address registers as invalid   |  AeroMedic System   |
+| 5  |  Confirmation and tracking information are generated   |  AeroMedic System  |
+| 6  |  Drone is dispatched   |  AeroMedic System  |
 | 6.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
 | 6.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
-| 7  |  Customer is given updates on their order's status   |  System  |
+| 7  |  Customer is given updates on their order's status   |  AeroMedic System  |
 | 8  |  Drone successfully delivers order   |  Drone  |
 | 9  |  Customer receives order and confirms it in the system  |  Customer  |  
   
@@ -176,7 +176,6 @@
 | Drone Delivery Routes |  Drone Dispatch Operator   |
 | Incident Report |  Drone Dispatch Operator   |
 
-
 **Major Outputs:**
 
 | **Major Outputs** | **Source** |
@@ -195,8 +194,47 @@
 | 3.1  |  If an incident occurs, operators will inform the Operational Manager   |  Drone Dispatch Operator   |
 | 3.2  |  Contingency protocols are executed   |  Operational Manager   |
 | 4  |  If necessary, the Operational Manager may inform stakeholders of any notable occurences | Drone Dispatch Operator |
-| 5  |  Delivery details are logged and placed in a daily system report | System |
+| 5  |  Delivery details are logged and placed in a daily system report | AeroMedic System |
 | 6  |  Operational Manager conducts analysis of system report | Operational Manager |
+
+**Use Case Number:** DC-3  
+ **Use Case Name:** Performing System Maintenance  
+ **Description:** Regular maintenance is scheduled to take place to ensure that the AeroMedic system remains secure, reliable, and technologically advanced. Mainenance is also conducted for the drones. 
+ **Primary Actor:** Maintenance Technician, Operational Manager  
+ **Priority:** Med  
+ **Type:** Temporal  
+ **Trigger:** Scheduled maintenance arrives, or the system encounters an issue.  
+   
+ **Major Inputs:**
+
+| **Major Inputs** | **Source** |
+|   :---:          |   :---:    |
+| Maintenance Schedule |  System Administrator  |
+| Incident Report |  Operational Manager, User, System   |
+
+**Major Outputs:**
+
+| **Major Outputs** | **Source** |
+|   :---:           |   :---:    |
+| Maintenance Log  |  Maintenance Technician   |
+| Updated/Fixed System  |  Software Maintenance Technician   |
+| Updated Drone Fleet  |  Hardware Maintenance Technician   |
+
+
+**Basic Flow:**
+
+| **Step** | **Action** | **Actor**  |
+|   :---:  |   :---:    |   :---:    |
+| 1  |  System Administrator schedules routine maintenance based on the system's requirements and usage |  System Administrator  |
+| 2  |  User is notified of impending maintenance in a non-disruptive fashion   |  AeroMedic System  |
+| 3  |  Drone Dispatch Operators monitor active deliveries   |  Drone Dispatch Operator   |
+| 4  |  System Maintenance is conducted   |  Software Maintenance Technician   |
+| 4.1  |  Drone maintenance is conducted if necessary   |  Hardware Maintenance Technician   |
+| 5  |  System Admin monitors maintenance progress | System Administrator |
+| 6  |  System updates are rolled out | Software Maintenance Technician |
+| 7  |  Maintenance concludes | Maintenance Technician |
+| 7.1  |  If new any issues are discovered, maintenance is extended | Maintenance Technician |
+| 8  |  System administrator generates and stores maintenance logs within the system| System Administrator |
 
 
 ## System Research
