@@ -118,8 +118,8 @@
 ## Fully Dressed Use Cases
  **Use Case Number:** DC-1  
  **Use Case Name:** Place Order  
- **Description:** The AeroMedic system allows patients to place orders on medical supplies or medication, whether it be directly or through a healthcare professional.  
- **Primary Actor:** Patient, Healthcare Professional  
+ **Description:** The AeroMedic system allows patients/customers to place orders on medical supplies or medication, whether it be directly or through a healthcare professional.  
+ **Primary Actor:** Patient/Customer, Healthcare Professional  
  **Priority:** High  
  **Type:** External  
  **Trigger:** Customer needs medication or supplies, or a healthcare professional prescribes them for them.  
@@ -137,15 +137,21 @@
 
 | **Major Outputs** | **Source** |
 |   :---:           |   :---:    |
-| Fill In           |  Fill In   |
-| Fill In           |  Fill In   |
+| Order Confirmation           |  AeroMedic System   |
+| Order Status           |  AeroMedic System   |
 
 **Basic Flow:**
 
 | **Step** | **Action** | **Actor**  |
 |   :---:  |   :---:    |   :---:    |
-| Fill In  |  Fill In   |  Fill In   |
-| Fill In  |  Fill In   |  Fill In   |
+| 1  |  Customer logs into the AeroMedic system   |  Fill In   |
+| 2  |  Customer selects items for their order   |  Fill In   |
+| 3  |  Inventory is checked to see if the selected items are available   |  Fill In   |
+| 4  |  Fill In   |  Fill In   |
+| 5  |  Fill In   |  Fill In   |
+| 6  |  Fill In   |  Fill In   |
+| 7  |  Fill In   |  Fill In   |
+| 8  |  Fill In   |  Fill In   |
 
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
