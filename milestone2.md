@@ -63,10 +63,8 @@
 ## Detailed Requirements Document
 ### Functional Requirements:
 1. User Authentification:
-- wss
-- wdwwd
-- ddwd
-- 
+  * ddas
+  * dwadwa
 ### Non-Functional Requirements:
 
 
