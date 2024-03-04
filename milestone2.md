@@ -116,14 +116,14 @@
 
 
 ## Fully Dressed Use Cases
- **Use Case Number:** DC-1
- **Use Case Name:**
- **Description:**
- **Primary Actor:**
- **Priority:**
- **Type:**
- **Trigger:**
- 
+ **Use Case Number:** DC-1  
+ **Use Case Name:**  
+ **Description:**  
+ **Primary Actor:**  
+ **Priority:**  
+ **Type:**  
+ **Trigger:**  
+   
  **Major Inputs:**
 
 | **Major Inputs** | **Source** |
