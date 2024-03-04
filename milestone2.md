@@ -45,21 +45,17 @@
 |5.1   | Drone Testing and Calibration             | 50  | 04/21/2024 | 04/28/2024 | 5            |
 |5.2   | Software Testing                          | 30  | 04/29/2024 | 05/02/2024 | 5.1          |
 |5.3   | User Acceptance Testing                   | 20  | 05/03/2024 | 05/05/2024 | 5.2          |
-
-|6     | Pilot Project                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|6.1   | Identify Pilot Project Location           | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|6.2   | Develop Execution Plan                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|6.3   | Execute Pilot Project                     | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-
-|7     | Deployment and Rollout                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|7.1   | Training and Onboarding                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|7.2   | System Launch                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-
-|8     | Documentation                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-
-|9     | Project Closure and Reporting             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|9.1   | Finalize Documentation                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|9.2   | Generate Project Report                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+|6     | Pilot Project                             | 70  | 05/03/2024 | 05/14/2024 | 5.3          |
+|6.1   | Identify Pilot Project Location           | 5   | 05/03/2024 | 05/04/2024 | 6            |
+|6.2   | Develop Execution Plan                    | 10  | 05/05/2024 | 05/06/2024 | 6.1          |
+|6.3   | Execute Pilot Project                     | 55  | 05/07/2024 | 05/14/2024 | 6.2          |
+|7     | Deployment and Rollout                    | 60  | 05/14/2024 | 05/27/2024 | 6.3          |
+|7.1   | Training and Onboarding                   | 40  | 05/14/2024 | 05/23/2024 | 7            |
+|7.2   | System Launch                             | 20  | 05/24/2024 | 05/27/2024 | 7.1          |
+|8     | Documentation                             | 20  | 05/28/2024 | 05/30/2024 | 7.2          |
+|9     | Project Closure and Reporting             | 20  | 05/31/2024 | 06/04/2024 | 8            |
+|9.1   | Finalize Documentation                    | 10  | 05/31/2024 | 06/02/2024 | 9            |
+|9.2   | Generate Project Report                   | 10  | 06/03/2024 | 06/04/2024 | 9.1          |
 
 ## Gantt Chart and Network Diagram
 
