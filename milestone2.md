@@ -66,13 +66,29 @@
   * User's must be able to create an account, verify their identities, link said account to their healthcare provider, and log in securely.
   * Access levels should vary between a basic user/patient, healthcare professionals, and drone dispatch operators.
 
-2. Ordering
+2. Ordering:
   * Patients must be able to make orders/requests for medication and necessary supplies through an easy-to-understand UI.
   * The system must allow patients to schedule their deliveries, as well as set up a recurring plan.
   * Healthcare professionals must be able to place orders on a patients behalf.
 
-3. Automated Dispatching
-  * Eggs
+3. Automated Dispatching:
+  * The system should automatically dispatch drones at scheduled times.
+  * Drone dispatch operators will oversee deliveries and returns as they are carried out.
+
+4. Real-time Tracking:
+  * Users must be able to track the statuses of orders they have placed through the system UI.
+  * Drone dispatch operators must be able to track dispatched drones with great detail.
+
+5. Navigation and Routing:
+  * The system must be able to plan drone routes and have access to several geographical databases to ensure the data used is up to date.
+  * A backup navigation system should be implemented to ensure drones can reroute or return safely if delivery is inhibited or halted entirely by external conditions, such as weather.
+
+6. Weather Integration:
+  * The system should be integrated with several weather APIs to receive detailed information on weather forecasts.
+
+7. Scalability and Optimization:
+  * The system must be capable of handling a high volume of concurrent delivery requests.
+  * The system's scaling must occur in an efficient manner as to avoid negatively affecting overall performance.
  
 
 ### Non-Functional Requirements:
