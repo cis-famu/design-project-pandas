@@ -85,7 +85,16 @@
 
 
 ## API Descriptions
-
+|Name|  Description | Usage |
+|:---: | --- | --- |
+|Google Maps| Provides mapping, geocoding, routing, and other location-based services. | Used to calculate optimal routes for drone delivery, display maps to users, geocode patient addresses, and provide real-time tracking of drone locations.|
+|OpenWeatherMap| Offers weather forecasts and current weather data for various locations. | Helps in planning drone flights by providing weather conditions such as wind speed, precipitation, temperature, and visibility.|
+|Drone Management| Manages the operation and control of drones, including flight planning, navigation, and telemetry data.| Allows the application to communicate with drones, send commands for takeoff, landing, and navigation, and retrieve status updates and telemetry data.|
+|Medical Supplies Inventory| Manages the inventory of medical supplies available for delivery.| Allows the application to check the availability of specific medical supplies, update inventory levels after deliveries, and notify staff when supplies need to be restocked. |
+|Patient Management| Manages patient information, including demographics, medical history, and delivery preferences.| Enables the application to retrieve patient addresses for delivery, verify patient eligibility for drone delivery, and update patient records after successful deliveries.| 
+|Payment Gateway| Facilitates secure online payments for drone delivery services. |Allows users to pay for medical supply deliveries using credit/debit cards or other payment methods securely integrated into the application.|
+|Firebased Cloud Messaging|Sends notifications to users via SMS, email, or push notifications.|Notifies patients about scheduled deliveries, provides status updates on delivery progress, and sends alerts in case of delays or issues during delivery.|
+|Regulatory Compliance|Provides information and updates on drone regulations and compliance requirements.|Ensures that drone operations adhere to legal and regulatory standards, including airspace restrictions, flight permissions, and safety protocols|
 
 
 
