@@ -121,7 +121,12 @@
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
 
-As for its design philosphy, 
+As for its design philosphy, Amazon Prime Air houses and employs a number of autonomouse drones to carry out package delivery to customers who request the service. Said deliveries usually take under an hour. Their system was designed and implemented to mesh with their existing and flourshing e-commerce platform so that customers can select Prime Air as an option at checkout for packages that are eligible. 
+
+Amazon Prime Air's capabilities are as follows:
+
+1. ## Automated Dispatch:
+   that
 
 
 ## API Descriptions
