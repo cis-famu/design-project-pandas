@@ -62,6 +62,8 @@
 
 ## Detailed Requirements Document
 ### Functional Requirements:
+1. User Authentification:
+   Eggs
 ### Non-Functional Requirements:
 
 
