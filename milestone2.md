@@ -160,48 +160,44 @@
 | 9  |  Customer receives order and confirms it in the system  |  Customer  |  
   
   
-**Use Case Number:** DC-1  
- **Use Case Name:** Place Order  
- **Description:** The AeroMedic system allows patients/customers to place orders on medical supplies or medication, whether it be directly or through a healthcare professional.  
- **Primary Actor:** Patient/Customer, Healthcare Professional  
+**Use Case Number:** DC-2  
+ **Use Case Name:** Operation Monitoring  
+ **Description:** The system allows for drone dispatch operators to monitor and manage deliveries as they are carried out to ensure that operations are both smooth and successful.  
+ **Primary Actor:** Drone Dispatch Operator, Operational Manager  
  **Priority:** High  
- **Type:** External  
- **Trigger:** Customer needs medication or supplies, or a healthcare professional prescribes them for them.  
+ **Type:** Temporal  
+ **Trigger:** Order is placed, scheduled delivery time arives, or an incident occurs during operation.  
    
  **Major Inputs:**
 
 | **Major Inputs** | **Source** |
 |   :---:          |   :---:    |
-| Supply/Medication Request |  Patient  |
-| Prescription         |  Healthcare Professional   |
-| Supply/Medication Availability         |  System Database   |
-| Delivery Preferences         |  Patient   |
+| Drone Telemetry Data |  Drone  |
+| Drone Delivery Routes |  Drone Dispatch Operator   |
+| Incident Report |  Drone Dispatch Operator   |
+
 
 **Major Outputs:**
 
 | **Major Outputs** | **Source** |
 |   :---:           |   :---:    |
-| Order Confirmation           |  AeroMedic System   |
-| Order Status           |  AeroMedic System   |
-| Order           |  Drone   |
+| Drone Status Updates  |  Drone   |
+| Progress/Incident Report  |  Drone Dispatch Operator   |
+
 
 **Basic Flow:**
 
 | **Step** | **Action** | **Actor**  |
 |   :---:  |   :---:    |   :---:    |
-| 1  |  Customer logs into the AeroMedic system   |  Customer   |
-| 2  |  Customer selects items for their order   |  Customer   |
-| 3  |  Inventory is checked to see if the selected items are available   |  System  |
-| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  System   |
-| 4  |  Customer proceeds to checkout   |  Customer   |
-| 4.1  |  Customer's payment information or delivery address registers as invalid   |  System   |
-| 5  |  Confirmation and tracking information are generated   |  System  |
-| 6  |  Drone is dispatched   |  System  |
-| 6.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
-| 6.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
-| 7  |  Customer is given updates on their order's status   |  System  |
-| 8  |  Drone successfully delivers order   |  Drone  |
-| 9  |  Customer receives order and confirms it in the system  |  Customer  |
+| 1  |  Operational Manager receives delivery schedule   |  Operational Manager  |
+| 2  |  Drones begin operation   |  AeroMedic System  |
+| 3  |  Drone Dispatch Operators monitor active deliveries   |  Drone Dispatch Operator   |
+| 3.1  |  If an incident occurs, operators will inform the Operational Manager   |  Drone Dispatch Operator   |
+| 3.2  |  Contingency protocols are executed   |  Operational Manager   |
+| 4  |  If necessary, the Operational Manager may inform stakeholders of any notable occurences | Drone Dispatch Operator |
+| 5  |  Delivery details are logged and placed in a daily system report | System |
+| 6  |  Operational Manager conducts analysis of system report | Operational Manager |
+
 
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
