@@ -117,7 +117,7 @@
 
 ## Fully Dressed Use Cases
  **Use Case Number:** DC-1  
- **Use Case Name:**  
+ **Use Case Name:** Place Order  
  **Description:**  
  **Primary Actor:**  
  **Priority:**  
