@@ -117,13 +117,33 @@
 
 ## Fully Dressed Use Cases
  **Use Case Number:** DC-1
+ **Use Case Name:**
+ **Description:**
+ **Primary Actor:**
+ **Priority:**
+ **Type:**
+ **Trigger:**
  
-|   :---:   |
-| **Name:** |
-| **Name:** |
-| **Name:** |
-| **Name:** |
-| **Name:** |
+ **Major Inputs:**
+
+| **Major Inputs** | **Source** |
+|   :---:          |   :---:    |
+| Fill In          |  Fill In   |
+| Fill In          |  Fill In   |
+
+**Major Outputs:**
+
+| **Major Outputs** | **Source** |
+|   :---:           |   :---:    |
+| Fill In           |  Fill In   |
+| Fill In           |  Fill In   |
+
+**Basic Flow:**
+
+| **Step** | **Action** | **Actor**  |
+|   :---:  |   :---:    |   :---:    |
+| Fill In  |  Fill In   |  Fill In   |
+| Fill In  |  Fill In   |  Fill In   |
 
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
