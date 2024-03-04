@@ -1,12 +1,17 @@
 # Milestone 2
 
 **Table of Contents**
-1. [Work Breakdown Structure](#work-breakdown-structure)
-2. [Gantt Chart and Network Diagram](#gantt-chart-and-network-diagram)
-3. [Detailed Requirements Document](#detailed-requirements-document)
-4. [Fully Dressed Use Cases](#fully-dressed-use-cases)
-5. [System Research](#system-research)
-6. [API Descriptions](#api-descriptions)
+1. [Meeting Minutes](#meeting-minutes)
+2. [Work Breakdown Structure](#work-breakdown-structure)
+3. [Gantt Chart and Network Diagram](#gantt-chart-and-network-diagram)
+4. [Detailed Requirements Document](#detailed-requirements-document)
+5. [Fully Dressed Use Cases](#fully-dressed-use-cases)
+6. [System Research](#system-research)
+7. [API Descriptions](#api-descriptions)
+  
+## Meeting Minutes
+January 26, 2024: 60 Minutes  
+February 2, 2024: 60 Minutes  
 
 ## Work Breakdown Structure 
 | **Task ID** |  **Task Name** | **Duration (Hours)** | **Start Date** | **Finish Date** | **Predecessors** |
