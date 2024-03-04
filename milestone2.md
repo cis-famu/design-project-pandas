@@ -151,6 +151,12 @@
 | 4  |  Customer proceeds to checkout   |  Customer   |
 | 4.1  |  Customer's payment information or delivery address registers as invalid   |  System   |
 | 5  |  Confirmation and tracking information are generated   |  System  |
+| 6  |  Drone is dispatched   |  System  |
+| 6.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
+| 6.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
+| 7  |  Customer is given updates on their order's status   |  System  |
+| 8  |  Drone successfully delivers order   |  Drone  |
+| 9  |  Customer receives order and confirms it in the system  |  Customer  |
 
 
 ## System Research
