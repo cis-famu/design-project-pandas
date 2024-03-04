@@ -11,7 +11,7 @@
 ### General Project Information
 | Project Name: |  AeroMedic: Medical Supply Delivery |
 | :---:        |     :---:      |
-| Executive Sponsor   | Vanessa Coote |
+| Executive Sponsor   | Joel |
 | Department Sponsor  | Vanessa Coote |
 | Impact of Project: | Delivery efficiency, cost reduction, enhancing healthcare, and improving medical accessibility. |
 ### Project Team Information
