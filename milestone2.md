@@ -66,8 +66,14 @@
   * User's must be able to create an account, verify their identities, link said account to their healthcare provider, and log in securely.
   * Access levels should vary between a basic user/patient, healthcare professionals, and drone dispatch operators.
 
-2. wwadwa
-3. 
+2. Ordering
+  * Patients must be able to make orders/requests for medication and necessary supplies through an easy-to-understand UI.
+  * The system must allow patients to schedule their deliveries, as well as set up a recurring plan.
+  * Healthcare professionals must be able to place orders on a patients behalf.
+
+3. Automated Dispatching
+  * Eggs
+ 
 
 ### Non-Functional Requirements:
 
