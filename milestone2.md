@@ -85,13 +85,34 @@
 
 6. Weather Integration:
   * The system should be integrated with several weather APIs to receive detailed information on weather forecasts.
+ 
+### Non-Functional Requirements:
+1. Operational Reliability and Consistency:
+  * System downtime should be minimized to the greatest extent.
+  * Backup contingencies and system redundancies should be in place in case of system failure.
 
-7. Scalability and Optimization:
+2. Security:
+  * The system must comply with current data protection standards and ensure the privacy of patient data.
+  * Encryption protocols must be implemented for the sake of both data transmission and storage.
+
+3. User Friendly UI:
+  * The UI should be easily accessible, simple to navigate for the average user, and generally visually appealing.
+
+4. Scalability and Optimization:
   * The system must be capable of handling a high volume of concurrent delivery requests.
   * The system's scaling must occur in an efficient manner as to avoid negatively affecting overall performance.
- 
 
-### Non-Functional Requirements:
+5. System Recovery:
+  * In case of critical failures, the system must be able to recover quickly and resume operation.
+  * System data should regulary be backed up and checked for integrity.
+
+6. Regulatory Compliance:
+  * The system must comply with all relevant regulations, such as those within aviation and healthcare.
+
+7. Documentation:
+  * Comprehensive documentation should be created and distributed for system administrators and users.
+  * Training materials must be available for the onboarding process.
+   
 
 
 ## Fully Dressed Use Cases
