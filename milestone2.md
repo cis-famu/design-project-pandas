@@ -117,7 +117,7 @@
 
 ## Fully Dressed Use Cases
 | **Name:** | 
-
+|   :---:   |
 
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
