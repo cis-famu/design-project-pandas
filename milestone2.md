@@ -63,7 +63,10 @@
 ## Detailed Requirements Document
 ### Functional Requirements:
 1. User Authentification:
-   Eggs
+- wss
+- wdwwd
+- ddwd
+- 
 ### Non-Functional Requirements:
 
 
