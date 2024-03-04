@@ -144,14 +144,14 @@
 
 | **Step** | **Action** | **Actor**  |
 |   :---:  |   :---:    |   :---:    |
-| 1  |  Customer logs into the AeroMedic system   |  Fill In   |
-| 2  |  Customer selects items for their order   |  Fill In   |
-| 3  |  Inventory is checked to see if the selected items are available   |  Fill In   |
-| 4  |  Fill In   |  Fill In   |
-| 5  |  Fill In   |  Fill In   |
-| 6  |  Fill In   |  Fill In   |
-| 7  |  Fill In   |  Fill In   |
-| 8  |  Fill In   |  Fill In   |
+| 1  |  Customer logs into the AeroMedic system   |  Customer   |
+| 2  |  Customer selects items for their order   |  Customer   |
+| 3  |  Inventory is checked to see if the selected items are available   |  System  |
+| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  System   |
+| 4  |  Customer proceeds to checkout   |  Customer   |
+| 4.1  |  Customer's payment information or delivery address registers as invalid   |  System   |
+| 5  |  Confirmation and tracking information are generated   |  System  |
+
 
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
