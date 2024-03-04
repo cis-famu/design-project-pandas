@@ -126,7 +126,10 @@ As for its design philosphy, Amazon Prime Air houses and employs a number of aut
 Amazon Prime Air's capabilities are as follows:
 
 1. ## Automated Dispatch:
-   that
+   Similarly to our system, Amazon Prime Air uses an automated dispatching system to schedule and carry out deliveries. Factors that are accounted for include distance, package size and weight, and customer location. Routes are calculated with optimization in mind.
+
+2. ## Real-Time Tracking
+   
 
 
 ## API Descriptions
