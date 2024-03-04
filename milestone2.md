@@ -61,8 +61,8 @@
 
 
 ## Detailed Requirements Document
-###Functional Requirements
-###Non-Functional Requirements
+### Functional Requirements
+### Non-Functional Requirements
 
 
 ## Fully Dressed Use Cases
