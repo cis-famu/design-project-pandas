@@ -118,11 +118,11 @@
 ## Fully Dressed Use Cases
  **Use Case Number:** DC-1  
  **Use Case Name:** Place Order  
- **Description:**  
- **Primary Actor:**  
- **Priority:**  
- **Type:**  
- **Trigger:**  
+ **Description:** The AeroMedic system allows patients to place orders on medical supplies or medication, whether it be directly or through a healthcare professional.  
+ **Primary Actor:** Patient, Healthcare Professional  
+ **Priority:** High  
+ **Type:** External  
+ **Trigger:** Customer needs medication or supplies, or a healthcare professional prescribes them for them.  
    
  **Major Inputs:**
 
