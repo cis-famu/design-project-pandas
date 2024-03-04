@@ -128,8 +128,10 @@
 
 | **Major Inputs** | **Source** |
 |   :---:          |   :---:    |
-| Fill In          |  Fill In   |
-| Fill In          |  Fill In   |
+| Supply/Medication Request |  Patient  |
+| Prescription         |  Healthcare Professional   |
+| Supply/Medication Availability         |  System Database   |
+| Delivery Preferences         |  Patient   |
 
 **Major Outputs:**
 
