@@ -41,19 +41,22 @@
 |4.2.1 | Implement Core System Logic               | 30  | 04/08/2024 | 04/10/2024 | 4.2          |
 |4.2.2 | Integrate Database Functionality          | 20  | 04/11/2024 | 04/14/2024 | 4.2          |
 |4.3   | User Interface Development                | 50  | 04/15/2024 | 04/21/2024 | 4.2.1, 4.2.2 |
+|5     | Testing and Quality Assurance             | 100 | 04/21/2024 | 05/05/2024 | 4.3          |
+|5.1   | Drone Testing and Calibration             | 50  | 04/21/2024 | 04/28/2024 | 5            |
+|5.2   | Software Testing                          | 30  | 04/29/2024 | 05/02/2024 | 5.1          |
+|5.3   | User Acceptance Testing                   | 20  | 05/03/2024 | 05/05/2024 | 5.2          |
 
-|5     | Testing and Quality Assurance             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|5.1   | Drone Testing and Calibration             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|5.2   | Software Testing                          | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
-|5.3   | User Acceptance Testing                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |6     | Pilot Project                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |6.1   | Identify Pilot Project Location           | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |6.2   | Develop Execution Plan                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |6.3   | Execute Pilot Project                     | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+
 |7     | Deployment and Rollout                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |7.1   | Training and Onboarding                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |7.2   | System Launch                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+
 |8     | Documentation                             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
+
 |9     | Project Closure and Reporting             | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |9.1   | Finalize Documentation                    | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
 |9.2   | Generate Project Report                   | **Fill In** |**Fill In**| **Fill In** | **Fill In** |
