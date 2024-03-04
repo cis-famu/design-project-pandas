@@ -121,17 +121,25 @@
 ## System Research
 A popular system that shares similarity with ours is Amazon Prime Air. While its basis is different, the drone delivery concept is essentially the same, and it offers insight and real life applications for large-scale drone delivery.
 
-As for its design philosphy, Amazon Prime Air houses and employs a number of autonomouse drones to carry out package delivery to customers who request the service. Said deliveries usually take under an hour. Their system was designed and implemented to mesh with their existing and flourshing e-commerce platform so that customers can select Prime Air as an option at checkout for packages that are eligible. 
+As for its design philosphy, Amazon Prime Air houses and employs a number of autonomouse drones to carry out package delivery to customers who request the service. Said deliveries usually take under an hour. Their system was designed and implemented to mesh with their existing and flourshing e-commerce platform so that customers can select Prime Air as an option at checkout for packages that are eligible. Similar services include Wing drone delivery, UPS Flight Forward, DHL Parcelcopter, and more.
 
 Amazon Prime Air's capabilities are as follows:
 
 1. ## Automated Dispatch:
    Similarly to our system, Amazon Prime Air uses an automated dispatching system to schedule and carry out deliveries. Factors that are accounted for include distance, package size and weight, and customer location. Routes are calculated with optimization in mind.
 
-2. ## Real-Time Tracking
+2. ## Real-Time Tracking:
+   Customers are able to track the status of their drone-assisted deliveries in the same way they would track a standard delivery. Through this functionality, customers are kept in the know and can rest assured that their package is on the way.
+
+3. ## Weather Integration:
+   The Amazon Prime Air system is integrated with weather forecasting APIs to monitor weather conditions in real time. Such information allows the system to decide whether or not the weather is fit for operation.
+
+4. ## Security:
+   Amazon Prime Air's system also features encryption protocols to protect and mask data that is shared between drones and their control centers for the sake of both customer and company safety.
+
+5. ## Backup Systems:
+   Backup systems and redundancy measures are employed to ensure operation can persist through any system failures. Such measures include navigational sensors and dynamic routing algorithms to account for negative weather conditions, airspace restrictions, and other factors of that nature.
    
-
-
 ## API Descriptions
 |Name|  Description | Usage |
 |:---: | --- | --- |
