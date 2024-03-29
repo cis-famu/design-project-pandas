@@ -140,11 +140,12 @@ February 2, 2024: 60 Minutes
 
 **Major Outputs:**
 
-| **Major Outputs** | **Source** |
+| **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
-| Order Confirmation           |  AeroMedic System   |
-| Order Status           |  AeroMedic System   |
-| Order           |  Drone   |
+| Order Confirmation |  AeroMedic System   |
+| Order tracking information | Patient |
+| Order Status           |  Patient   |
+| Order Delivery info  |  Drone   |
 
 **Basic Flow:**
 
