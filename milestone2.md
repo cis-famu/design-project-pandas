@@ -184,7 +184,7 @@ February 2, 2024: 60 Minutes
 
 **Major Outputs:**
 
-| **Major Outputs** | **Source** |
+| **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
 | Drone Status Updates  |  Drone   |
 | Progress/Incident Report  |  Drone Dispatch Operator   |
@@ -220,7 +220,7 @@ February 2, 2024: 60 Minutes
 
 **Major Outputs:**
 
-| **Major Outputs** | **Source** |
+| **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
 | Maintenance Log  |  Maintenance Technician   |
 | Updated/Fixed System  |  Software Maintenance Technician   |
