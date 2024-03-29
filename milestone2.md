@@ -179,7 +179,7 @@ February 2, 2024: 60 Minutes
 | **Major Inputs** | **Source** |
 |   :---:          |   :---:    |
 | Drone Location Data |  Drone  |
-| Drone Delivery Routes |  Drone Dispatch Operator   |
+| Drone Delivery Routes |  Drone Dispatch Operator/Pilot  |
 | Incident Report |  Drone Dispatch Operator   |
 
 **Major Outputs:**
@@ -187,7 +187,7 @@ February 2, 2024: 60 Minutes
 | **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
 | Drone Status Updates  |  Patient   |
-| Drone Status Updates  |  Drone Dispatch Operator   |
+| Drone Status Updates  |  Drone Dispatch Operator/Pilot   |
 | Progress/Incident Report  |  Drone Dispatch Operator   |
 
 
@@ -198,9 +198,9 @@ February 2, 2024: 60 Minutes
 | 1  |  Operational Manager receives delivery schedule   |  Operational Manager  |
 | 2  |  Drones begin operation   |  AeroMedic System  |
 | 3  |  Drone Dispatch Operators monitor active deliveries   |  Drone Dispatch Operator   |
-| 3.1  |  If an incident occurs, operators will inform the Operational Manager   |  Drone Dispatch Operator|
+| 3.1  |  If an incident occurs, operators will inform the Operational Manager   |  Drone Dispatch Operator/Pilot|
 | 3.2  |  Contingency protocols are executed   |  Operational Manager   |
-| 4  |  If necessary, the Operational Manager may inform stakeholders of any notable occurences | Drone Dispatch Operator |
+| 4  |  If necessary, the Operational Manager may inform stakeholders of any notable occurences | Drone Dispatch Operator/Pilot |
 | 5  |  Delivery details are logged and placed in a daily system report | AeroMedic System |
 | 6  |  Operational Manager conducts analysis of system report | Operational Manager |
 
