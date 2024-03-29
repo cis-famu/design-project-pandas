@@ -135,7 +135,7 @@ February 2, 2024: 60 Minutes
 |   :---:          |   :---:    |
 | Supply/Medication Request |  Patient  |
 | Prescription         |  Healthcare Professional   |
-| Supply/Medication Availability         |  System Database   |
+| Supply/Medication Availability         |  Medication File   |
 | Delivery Preferences         |  Patient   |
 
 **Major Outputs:**
