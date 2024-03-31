@@ -144,7 +144,6 @@ February 2, 2024: 60 Minutes
 |   :---:           |   :---:    |
 | Order Confirmation |   Patient   |
 | Order tracking Number | Patient |
-| Order Status     |  Patient   |
 | Order Delivery info  |  Drone   |
 
 **Basic Flow:**
