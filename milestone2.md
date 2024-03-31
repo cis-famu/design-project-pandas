@@ -189,7 +189,8 @@ February 2, 2024: 60 Minutes
 
 | **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
-| Drone Status Updates  |  Patient   |
+| Drone location  |  Patient   |
+| Order Staus | Patient|
 | Drone Status Updates  |  Drone Dispatch Operator/Pilot   |
 | Progress/Incident Report  |  Admin   |
 | Progress Report  |   Progress Report File   |
