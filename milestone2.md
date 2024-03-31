@@ -168,7 +168,7 @@ February 2, 2024: 60 Minutes
 **Use Case Number:** DC-2  
  **Use Case Name:** Delivery Monitoring  
  **Description:** The system allows for drone dispatch operators to monitor and manage deliveries as they are carried out to ensure that operations are both smooth and successful.  
- **Primary Actor:** Drone Dispatch Operator, Operational Manager  
+ **Primary Actor:** Drone Dispatch Operator
  **Priority:** High  
  **Type:** External 
  **Trigger:** Delivery Starts  
@@ -202,12 +202,11 @@ February 2, 2024: 60 Minutes
 |   :---:  |   :---:    |   :---:    |
 | 1  |  Operational Manager receives delivery schedule   |  Operational Manager  |
 | 2  |  Drones begin operation   |  AeroMedic System  |
-| 3  |  Drone Dispatch Operators monitor active deliveries   |  Drone Dispatch Operator   |
-| 3.1  |  If an incident occurs, operators will inform the Operational Manager   |  Drone Dispatch Operator/Pilot|
-| 3.2  |  Contingency protocols are executed   |  Operational Manager   |
-| 4  |  If necessary, the Operational Manager may inform stakeholders of any notable occurences | Drone Dispatch Operator/Pilot |
-| 5  |  Delivery details are logged and placed in a daily system report | AeroMedic System |
-| 6  |  Operational Manager conducts analysis of system report | Operational Manager |
+| 2.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
+| 2.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
+| 2.3  |  If an incident occurs, operators will enter Incedent Info   |  Drone Dispatch Operator/Pilot|
+| 5  |  Delivery details are logged and placed in a progress report | AeroMedic System |
+| 6  |  System sends Reports to Admin | Operational Manager |
 
 **Use Case Number:** DC-3  
  **Use Case Name:** Performing System Maintenance  
