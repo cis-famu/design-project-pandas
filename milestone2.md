@@ -209,43 +209,40 @@ February 2, 2024: 60 Minutes
 | 6  |  System sends Reports to Admin | Operational Manager |
 
 **Use Case Number:** DC-3  
- **Use Case Name:** Performing System Maintenance  
- **Description:** Regular maintenance is scheduled to take place to ensure that the AeroMedic system remains secure, reliable, and technologically advanced. Mainenance is also conducted for the drones. 
- **Primary Actor:** Maintenance Technician, Operational Manager  
+ **Use Case Name:** Logging System Maintenance
+ **Description:** Logs System Maintenance done for the week every friday. 
+ **Primary Actor:** Maintenance Team 
  **Priority:** Med  
  **Type:** Temporal  
- **Trigger:** Scheduled maintenance arrives, or the system encounters an issue.  
+ **Trigger:** It is Friday
    
  **Major Inputs:**
 
 | **Major Inputs** | **Source** |
 |   :---:          |   :---:    |
-| Maintenance Schedule |  System Administrator  |
-| Incident Report |  Operational Manager, User, System   |
+| Incident Report |  Incident Report file  |
+| Maintenance info| Maintenance Team |
+| updated Code| Maintenance Team |
+| current Date| computer |
 
 **Major Outputs:**
 
 | **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
-| Maintenance Log  |  Maintenance Technician   |
-| Updated/Fixed System  |  Software Maintenance Technician   |
-| Updated Drone Fleet  |  Hardware Maintenance Technician   |
+| Maintenance Log  |  Maintenance Log file  |
+| updated Code| System code file |
+| filtered Incident Reports |   Maintenance Team  |
 
 
 **Basic Flow:**
 
 | **Step** | **Action** | **Actor**  |
 |   :---:  |   :---:    |   :---:    |
-| 1  |  System Administrator schedules routine maintenance based on the system's requirements and usage |  System Administrator  |
-| 2  |  User is notified of impending maintenance in a non-disruptive fashion   |  AeroMedic System  |
-| 3  |  Drone Dispatch Operators monitor active deliveries   |  Drone Dispatch Operator   |
-| 4  |  System Maintenance is conducted   |  Software Maintenance Technician   |
-| 4.1  |  Drone maintenance is conducted if necessary   |  Hardware Maintenance Technician   |
-| 5  |  System Admin monitors maintenance progress | System Administrator |
-| 6  |  System updates are rolled out | Software Maintenance Technician |
-| 7  |  Maintenance concludes | Maintenance Technician |
-| 7.1  |  If new any issues are discovered, maintenance is extended | Maintenance Technician |
-| 8  |  System administrator generates and stores maintenance logs within the system| System Administrator |
+| 1 |  System send Maintenance Team incident reports from the last week |
+| 2 |  Maintenance Team Enter in all mainence done  |
+| 3 |  Maintenance Team uplaod sofweare updates   |  Maintenance Team    |
+| 4 |  maintenance log is generated  |  system   |
+| 5 |  System stores maintenance logs within the system| System Administrator |
 
 
 ## System Research
