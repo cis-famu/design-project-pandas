@@ -135,16 +135,16 @@ February 2, 2024: 60 Minutes
 |   :---:          |   :---:    |
 | Supply/Medication Request |  Patient  |
 | Prescription         |  Healthcare Professional   |
-| Supply/Medication Availability         |  Medication File   |
-| Delivery Preferences         |  Patient   |
+| Supply/Medication Availability  |  Inventory File   |
+| Delivery info  |  Patient   |
 
 **Major Outputs:**
 
 | **Major Outputs** | **Destination** |
 |   :---:           |   :---:    |
 | Order Confirmation |   Patient   |
-| Order tracking information | Patient |
-| Order Status           |  Patient   |
+| Order tracking Number | Patient |
+| Order Status     |  Patient   |
 | Order Delivery info  |  Drone   |
 
 **Basic Flow:**
@@ -153,34 +153,38 @@ February 2, 2024: 60 Minutes
 |   :---:  |   :---:    |   :---:    |
 | 1  |  Customer logs into the AeroMedic system   |  Customer   |
 | 2  |  Customer selects items for their order   |  Customer   |
-| 3  |  Inventory is checked to see if the selected items are available   |  AeroMedic System  |
-| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  AeroMedic System   |
-| 4  |  Customer proceeds to checkout   |  Customer   |
-| 4.1  |  Customer's payment information or delivery address registers as invalid   |  AeroMedic System   |
-| 5  |  Confirmation and tracking information are generated   |  AeroMedic System  |
-| 6  |  Drone is dispatched   |  AeroMedic System  |
-| 6.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
-| 6.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
-| 7  |  Customer is given updates on their order's status   |  AeroMedic System  |
-| 8  |  Drone successfully delivers order   |  Drone  |
-| 9  |  Customer receives order and confirms it in the system  |  Customer  |  
+| 3  |  Inventory is checked to see if the selected items are available   |   System  |
+| 3.1  |  Item is out of stock or nearly empty, so the user is notified   |  System   |
+|4.0| System checks if prescription is real| System |
+| 5  |  Customer proceeds to checkout   |  Customer   |
+| 5.1  |  Customer's payment information or delivery address registers as invalid, promt to re-enter info   |   System   |
+| 6  |  Confirmation and tracking information are generated   |  System  |
+| 7  |  Drone Sent delivery info  |   System  |
+| 8 | Drone is sent intructions to start delivery| system|
+| 9  |  Customer is given updates on their order's status   |  System  |
+| 10  |  Customer receives order and get confirmation  |  System  |  
   
   
 **Use Case Number:** DC-2  
- **Use Case Name:** Operation Monitoring  
+ **Use Case Name:** Delivery Monitoring  
  **Description:** The system allows for drone dispatch operators to monitor and manage deliveries as they are carried out to ensure that operations are both smooth and successful.  
  **Primary Actor:** Drone Dispatch Operator, Operational Manager  
  **Priority:** High  
- **Type:** Temporal  
- **Trigger:** Order is placed, scheduled delivery time arives, or an incident occurs during operation.  
+ **Type:** External 
+ **Trigger:** Delivery Starts  
    
  **Major Inputs:**
+
+| 8.1  |  Drone comes across an issue that inhibits delivery   |  Drone  |
+| 8.2  |  Drone either attempts an alternate path or returns to base   |  Drone  |
+
 
 | **Major Inputs** | **Source** |
 |   :---:          |   :---:    |
 | Drone Location Data |  Drone  |
 | Drone Delivery Routes |  Drone Dispatch Operator/Pilot  |
-| Incident Report |  Drone Dispatch Operator   |
+| Incident info |  Drone Dispatch Operator   |
+| Order Staus | Drone|
 
 **Major Outputs:**
 
@@ -188,8 +192,9 @@ February 2, 2024: 60 Minutes
 |   :---:           |   :---:    |
 | Drone Status Updates  |  Patient   |
 | Drone Status Updates  |  Drone Dispatch Operator/Pilot   |
-| Progress/Incident Report  |  Drone Dispatch Operator   |
-
+| Progress/Incident Report  |  Admin   |
+| Progress Report  |   Progress Report File   |
+|Incident Report|Incident Report file|
 
 **Basic Flow:**
 
