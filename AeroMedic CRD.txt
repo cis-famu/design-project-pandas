@@ -1,0 +1,66 @@
+Users collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "username": "string",
+  "email": "string",
+  "userType": "string",
+  "orders": [ObjectId] // References to Orders collection (one-to-many)
+}
+
+Order collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "userID": ObjectId, // Foreign Key referencing Users collection (many-to-one)
+  "orderItems": [ObjectId], // References to OrderItems collection (one-to-many)
+  "deliverySchedule": ObjectId // Reference to DeliverySchedules collection (one-to-one)
+}
+
+
+Items collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "name": "string",
+  "description": "string",
+  "price": "number"
+}
+
+
+Inventory collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "medicationID": ObjectId, // Foreign Key referencing Medications collection
+  "supplierName": "string",
+  "location": "string"
+}
+
+
+OrderItems collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "orderID": ObjectId, // Foreign Key referencing Orders collection
+  "medicationID": ObjectId, // Foreign Key referencing Medications collection
+  "inventoryID": ObjectId // Foreign Key referencing Inventory collection
+}
+
+
+Delivery Schedules collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "orderID": ObjectId, // Foreign Key referencing Orders collection
+  "deliveryDateTime": ISODate
+}
+
+
+Deliveries collection
+
+{
+  "_id": ObjectId, // Primary Key
+  "deliveryScheduleID": ObjectId, // Foreign Key referencing DeliverySchedules collection
+  "status": "string"
+}
